@@ -1,2 +1,3 @@
 # MiniRT
-Create a simple raytracer
+
+My first raytrace write in C
